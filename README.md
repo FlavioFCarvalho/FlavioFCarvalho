@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/FlavioFCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioFCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioFCarvalho&layout=compact&langs_count=7&theme=dracula&hide=Ruby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioFCarvalho&layout=compact&langs_count=7&theme=dracula&hide=Ruby,JavasScript"/>
 </div>
 
 <div style="display: inline_block"><br>
