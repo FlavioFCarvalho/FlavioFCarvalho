@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Java.
-- 🌱 Estou estudando Microserviços e Typescript.
+- 🌱 Estou estudando Microserviços e Design de software .
 
  <div>
   <a href="https://github.com/FlavioFCarvalho">
